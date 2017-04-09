@@ -6,20 +6,13 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Victor Shiryakov",
+      "name": "Viktor Shiryakov",
       "email": "shiryakovv@gmail.com"
     }
   ],
   "require": {
-    ""
-    "yiisoft/yii2": "*",
-    "yiisoft/yii2-bootstrap": "*",
-    "yiisoft/yii2-swiftmailer": "*",
-    "yiisoft/yii2-authclient": "*",
-    "yiisoft/yii2-imagine": "*",
-    "kartik-v/yii2-mpdf":"*",
-    "kartik-v/yii2-widgets":"*",
-    "kartik-v/yii2-grid":"*"
+    "php": ">=5.4.0",
+    "yiisoft/yii2": "*"
   },
   "autoload": {
     "psr-4": {
